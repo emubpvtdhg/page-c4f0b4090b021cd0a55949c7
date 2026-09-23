@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3c144c77fb93042f49410bb7",
+  "owner": "emubpvtdhg",
+  "repo": "page-c4f0b4090b021cd0a55949c7",
+  "title": "猴子网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c4f0b4090b021cd0a55949c7",
+      "a": "猴子网络",
+      "b": "2027官方最新地址导航",
+      "entity": "猴子网络",
+      "brand": "猴子网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "905bc00a60d305adbc5f848a128550d7a27dc4d5e7f045ea2216039cc865290f",
+      "content": {
+        "primary_entity": "猴子网络",
+        "keyword1": "猴子网络",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择适合的客户端，路由器、移动端、桌面端分别推荐。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的套餐与客户端，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "开始使用猴子网络",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开说明。基础版每月 100GB 流量、支持 3 台设备，适合单人或轻量使用；旗舰版每月 300GB 流量、支持 5 台设备，带 IPLC 专线游戏加速；团队版每月 1000GB 流量、支持 20 台设备，适合多人协作。年付方案更划算，按需选择客户端后导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度整理套餐差异。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月消耗按需升级。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按设备数量选择合适版本。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速，团队版含 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路与场景",
+          "AI_GUIDE_INTRO": "订阅配置分三步：确定套餐、核对适配、按客户端文档导入。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "猴子网络提供多档流量与设备数量的订阅套餐，覆盖基础浏览、流媒体解锁、IPLC 专线游戏加速与团队协作场景，按设备选择客户端并导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150，支持 3 台设备与 100GB 流量；旗舰版月付 ¥35、年付 ¥350，支持 5 台设备、300GB 流量并含 IPLC 专线；团队版月付 ¥85、年付 ¥850，支持 20 台设备与 1000GB 流量。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版、团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐的设备数量、流量额度与线路类型是否匹配当前使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照其订阅文档导入节点信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "猴子网络订阅优选",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。同一时间超量连接可能被限制，建议按常用设备数量选套餐。",
+          "AI_FAQ_ANSWER_2": "登录用户中心即可查看订阅地址与二维码，按客户端文档导入配置。不同客户端的订阅导入方式略有差异，请对照相应教程操作。",
+          "AI_FAQ_ANSWER_3": "月付和年付套餐流量一致，年付方案价格更低。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_4": "旗舰版及以上配有 IPLC 专线和流媒体优化节点，适合观看高清视频和联机游戏。基础版使用普通节点池，可满足日常网页和视频需求。",
+          "AI_FAQ_ANSWER_5": "在用户中心可查看当前套餐剩余流量，接近上限时会收到提醒。如需升级可在套餐页面调整，或联系客服处理续费与变更事宜。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "怎么获取订阅链接并导入客户端？",
+          "AI_FAQ_QUESTION_3": "月付和年付套餐有什么区别？",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了哪些线路？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么处理？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "emyuxpy.cn",
+    "host": "emyuxpy.cn"
+  },
+  "file_hashes": {
+    "index.html": "97c015aabce9a0c44b2edfac95cbfca6b0e6142ee2960c0279e377a23b146e32",
+    "sitemap.xml": "a6329a7029c89035569bbac2e422c1f8b8401916bbba3ef6a5af11527af5e3c5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "01782323088b17ddefb1f7e20813bcb05ceeb2500e700fd44d014ebc0cc40dc4",
+    "robots.txt": "85e2d64e04fe4fb87f87f5ff5cfa2df2b4ab9c59dd6cc9bf7998aa41e5d0e158",
+    "4d057d76986eb1f025a72dc4f3d8750f.txt": "cf590af218b116322460d235c9b841fd9cded0431f65d19e93174a614e820f3a"
+  },
+  "revision": "a0547260d147ea947d8bda9b29188ce2bb01498d224609a31b601a0b75a59563"
+}
